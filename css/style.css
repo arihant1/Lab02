@@ -1,0 +1,31 @@
+/* So I will try to experiment here, not sure how it'll turn out, but due to the time */
+/* it'll be what I turn in for the night. I'm finally starting to catch up on the reading */
+/* and really want to try more here...anyway, thanks for listening*/
+/* I call the h1 tag the kitchen sink method */
+body (
+  background-image: url("baloo.jpeg");
+  color: orange;
+  font-size: 12px
+)
+
+h1 (
+  background-color: red; 
+  font-family: times, monospace, georgia; 
+  font-size: 32px
+  font-style: italic
+  font-weight: bold
+  padding: 20px; 
+)
+
+p.alpha (
+  background-color: Darkcyan; 
+  font-family: helvetica, ariel, verdana;
+  color: inherit; 
+)
+
+p.bravo (
+  font-family: inherit;
+  color: inherit; 
+
+
+)
