@@ -12,7 +12,7 @@ Author SBaloo
 ## Reflections and Comments
  - Well it's been completed, _it_ is going very well, the material is sticking in, and really, really enjoyable. As I said above, the choice of textbooks is very good, as they are my main reference and very readable. Not only am I enjoying studying the material, it's hard to get me away. 
  - My observations thus far...Well i start work around 0530-0600 in the morning, don't really take lunch, and usually work until about 1930-2000 at night, well up until this course at least. With that beign said, getting caught up on the reading was the difficult part (due to the amount of reading needing to be completed). 
- - Well I'm still not done, but expect to be able to re-submit by late tomorrow evening. Definitely took longer than I expected, but I cahlk that up to me going down _*ALL*_ the rabbit holes when it comes to css, and js. I look forward to the rest fo the courses especially if it stays like this. 
+ - Well I'm done with the lab...Definitely took longer than I expected, but I chalk that up to me being called into woark one day and life getting in the way as well as me going down _*ALL*_ the rabbit holes when it comes to css, and js. I look forward to the rest of the courses especially if it stays like this. 
  Fun. 
 
 _____
