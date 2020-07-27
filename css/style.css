@@ -3,13 +3,13 @@
 /* and really want to try more here...anyway, thanks for listening*/
 /* I call the h1 tag the kitchen sink method */
 body {
-  background-color: black;
-  color: orange;
+  background-color: #12343b;
+  color: black;
   font-size: 12px;
 }
 
 h1 {
-  background-color: black; 
+  background-color: #2d545e; 
   color: red;
   font-family: times, monospace, georgia; 
   font-size: 32px
@@ -18,13 +18,14 @@ h1 {
   padding: 20px; 
 }
 
-p.alpha {
-  background-color: Darkcyan; 
+ul.alpha {
+  background: #e1b382; 
   font-family: helvetica, ariel, verdana;
   color: inherit; 
 }
 
-p.bravo {
+ul.bravo {
+  background: #c89666;
   font-family: inherit;
   color: inherit; 
 
