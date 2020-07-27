@@ -2,30 +2,31 @@
 /* it'll be what I turn in for the night. I'm finally starting to catch up on the reading */
 /* and really want to try more here...anyway, thanks for listening*/
 /* I call the h1 tag the kitchen sink method */
-body (
-  background-image: url("baloo.jpeg");
+body {
+  background-color: black;
   color: orange;
-  font-size: 12px
-)
+  font-size: 12px;
+}
 
-h1 (
-  background-color: red; 
+h1 {
+  background-color: black; 
+  color: red;
   font-family: times, monospace, georgia; 
   font-size: 32px
   font-style: italic
   font-weight: bold
   padding: 20px; 
-)
+}
 
-p.alpha (
+p.alpha {
   background-color: Darkcyan; 
   font-family: helvetica, ariel, verdana;
   color: inherit; 
-)
+}
 
-p.bravo (
+p.bravo {
   font-family: inherit;
   color: inherit; 
 
 
-)
+}
